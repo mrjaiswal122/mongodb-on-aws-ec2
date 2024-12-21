@@ -108,7 +108,7 @@ sudo systemctl status mongod
 ## Step 14: Connect to MongoDB
 Connection URI format:
 ```
-mongodb://admin:your_secure_password@your-ec2-public-ip:27017/?authSource=admin
+mongodb://admin:your_secure_password@your-ec2-public-ip
 ```
 
 ## Security Best Practices
